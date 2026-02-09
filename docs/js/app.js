@@ -13,11 +13,11 @@
   // ── Fetch & Parse ────────────────────────────────────────────────
   let parser;
   try {
-    // Try relative path (local dev) then raw GitHub URL (GitHub Pages)
-    let resp = await fetch('../tokens.json');
-    if (!resp.ok) {
-      resp = await fetch('https://raw.githubusercontent.com/JpHypno90/ButternutBox/Tokens/tokens.json');
-    }
+    const isGitHubPages = location.hostname.endsWith('.github.io');
+    const tokenUrl = isGitHubPages
+      ? 'https://raw.githubusercontent.com/JpHypno90/ButternutBox/Tokens/tokens.json'
+      : '../tokens.json';
+    const resp = await fetch(tokenUrl);
     if (!resp.ok) throw new Error('Failed to load tokens.json: ' + resp.status);
     const json = await resp.json();
     parser = new TokenParser();
