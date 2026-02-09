@@ -1,0 +1,38 @@
+{
+  "sliderField": {
+    "spacing": {
+      "gap": {
+        "value": "{spacing.sm}",
+        "type": "spacing"
+      },
+      "label": {
+        "gap": {
+          "value": "{spacing.xs}",
+          "type": "spacing"
+        }
+      }
+    },
+    "colour": {
+      "text": {
+        "label": {
+          "value": "{colour.text.primary}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{colour.text.secondary}",
+          "type": "color"
+        }
+      }
+    },
+    "typography": {
+      "label": {
+        "value": "{typography.body.semiBold.lg}",
+        "type": "typography"
+      },
+      "description": {
+        "value": "{typography.body.medium.sm}",
+        "type": "typography"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "buttonGroup": {
+    "spacing": {
+      "gap": {
+        "value": "{spacing.md}",
+        "type": "spacing"
+      },
+      "stacked": {
+        "gap": {
+          "value": "{spacing.sm}",
+          "type": "spacing"
+        }
+      },
+      "sideBySide": {
+        "gap": {
+          "value": "{spacing.xs}",
+          "type": "spacing"
+        }
+      }
+    },
+    "colour": {
+      "text": {
+        "value": "{colour.text.secondary}",
+        "type": "color"
+      }
+    },
+    "typography": {
+      "description": {
+        "value": "{typography.body.medium.md}",
+        "type": "typography"
+      }
+    }
+  }
+}

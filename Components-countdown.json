@@ -1,0 +1,144 @@
+{
+  "days": {
+    "size": {
+      "width": {
+        "value": "{sizing.5xl}",
+        "type": "sizing"
+      },
+      "count": {
+        "width": {
+          "value": "{sizing.4xl}",
+          "type": "sizing"
+        }
+      }
+    },
+    "spacing": {
+      "gap": {
+        "value": "{spacing.3xs}",
+        "type": "spacing"
+      },
+      "padding": {
+        "value": "{spacing.2xs}",
+        "type": "spacing"
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "value": "{colour.background.container.brand}",
+          "type": "color"
+        },
+        "count": {
+          "value": "{colour.background.container.secondary}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{colour.text.primary}",
+          "type": "color"
+        }
+      }
+    },
+    "borderRadius": {
+      "outer": {
+        "value": "{borderRadius.sm}",
+        "type": "borderRadius"
+      },
+      "count": {
+        "value": "{borderRadius.xs}",
+        "type": "borderRadius"
+      }
+    },
+    "typography": {
+      "number": {
+        "value": {
+          "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.24}",
+          "lineHeight": "{lineHeight.32}"
+        },
+        "type": "typography",
+        "description": "No semantic heading typography exists - uses primitives"
+      },
+      "label": {
+        "value": "{typography.body.medium.sm}",
+        "type": "typography"
+      }
+    }
+  },
+  "countdown": {
+    "stacked": {
+      "spacing": {
+        "gap": {
+          "value": "{spacing.xs}",
+          "type": "spacing"
+        }
+      },
+      "colour": {
+        "text": {
+          "separator": {
+            "value": "{colour.text.primary}",
+            "type": "color"
+          }
+        }
+      },
+      "typography": {
+        "separator": {
+          "value": "{typography.body.bold.sm}",
+          "type": "typography"
+        }
+      }
+    },
+    "inline": {
+      "spacing": {
+        "padding": {
+          "value": "{spacing.xs}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{spacing.3xs}",
+          "type": "spacing"
+        }
+      },
+      "colour": {
+        "background": {
+          "default": {
+            "value": "{colour.background.container.brand}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{colour.text.primary}",
+            "type": "color"
+          }
+        }
+      },
+      "borderRadius": {
+        "default": {
+          "value": "{borderRadius.sm}",
+          "type": "borderRadius"
+        }
+      },
+      "typography": {
+        "label": {
+          "value": "{typography.body.bold.md}",
+          "type": "typography"
+        },
+        "number": {
+          "value": "{typography.body.bold.md}",
+          "type": "typography"
+        },
+        "unit": {
+          "value": "{typography.body.medium.xs}",
+          "type": "typography"
+        },
+        "separator": {
+          "value": "{typography.body.semiBold.sm}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
