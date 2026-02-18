@@ -5,7 +5,7 @@
         "large": {
           "height": {
             "$type": "sizing",
-            "$value": "{sizing.xs}"
+            "$value": "{sizing.md}"
           },
           "mindWidth": {
             "$type": "sizing",

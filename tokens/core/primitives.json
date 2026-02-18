@@ -883,6 +883,10 @@
         "$type": "dimension",
         "$value": "180px"
       },
+      "200": {
+        "$type": "dimension",
+        "$value": "200px"
+      },
       "320": {
         "$type": "dimension",
         "$value": "320px"
