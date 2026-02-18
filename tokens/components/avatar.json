@@ -1,0 +1,36 @@
+{
+  "avatar": {
+    "size": {
+      "small": {
+        "$type": "sizing",
+        "$value": "{sizing.2xl}"
+      },
+      "medium": {
+        "$type": "sizing",
+        "$value": "{sizing.3xl}"
+      },
+      "large": {
+        "$type": "sizing",
+        "$value": "{sizing.4xl}"
+      }
+    },
+    "colour": {
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "borderWidth": {
+      "small": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      },
+      "medium": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      }
+    }
+  }
+}

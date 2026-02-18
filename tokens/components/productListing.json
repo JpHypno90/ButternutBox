@@ -1,0 +1,50 @@
+{
+  "productListing": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      }
+    },
+    "text": {
+      "category": {
+        "$type": "color",
+        "$value": "{colour.text.secondary}"
+      },
+      "productName": {
+        "$type": "color",
+        "$value": "{colour.text.primary}"
+      },
+      "productSize": {
+        "$type": "color",
+        "$value": "{colour.text.secondary}"
+      },
+      "price": {
+        "$type": "color",
+        "$value": "{colour.text.secondary}"
+      }
+    },
+    "content": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      },
+      "title": {
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      }
+    },
+    "image": {
+      "borderRadius": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.md}"
+        }
+      }
+    }
+  }
+}

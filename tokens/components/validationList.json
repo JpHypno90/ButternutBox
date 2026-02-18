@@ -1,0 +1,38 @@
+{
+  "validationList": {
+    "listItem": {
+      "colour": {
+        "icon": {
+          "error": {
+            "$type": "color",
+            "$value": "{colour.icon.error}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{colour.icon.success}"
+          }
+        },
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      },
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      }
+    },
+    "list": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    }
+  }
+}

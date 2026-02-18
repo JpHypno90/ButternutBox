@@ -1,0 +1,42 @@
+{
+  "spinner": {
+    "size": {
+      "sm": {
+        "$type": "sizing",
+        "$value": "{sizing.lg}"
+      },
+      "md": {
+        "$type": "sizing",
+        "$value": "{dimension.sizing.28}"
+      },
+      "lg": {
+        "$type": "sizing",
+        "$value": "{sizing.2xl}"
+      }
+    },
+    "colour": {
+      "background": {
+        "base": {
+          "light": {
+            "$type": "color",
+            "$value": "{colour.text.action.inverse}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{colour.icon.action.default}"
+          }
+        },
+        "progress": {
+          "dark": {
+            "$type": "color",
+            "$value": "{colour.text.action.inverse}"
+          },
+          "light": {
+            "$type": "color",
+            "$value": "{colour.icon.action.default}"
+          }
+        }
+      }
+    }
+  }
+}

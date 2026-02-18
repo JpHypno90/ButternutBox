@@ -1,0 +1,112 @@
+{
+  "controlItem": {
+    "size": {
+      "small": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.36}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{sizing.7xl}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "selected": {
+          "$type": "color",
+          "$value": "{colour.system.neutral.1}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.brand.pink.9}"
+        }
+      },
+      "text": {
+        "selected": {
+          "$type": "color",
+          "$value": "{colour.brand.pink.8}"
+        },
+        "unselected": {
+          "$type": "color",
+          "$value": "{colour.system.neutral.1}"
+        }
+      }
+    },
+    "spacing": {
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.sm}"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    },
+    "typography": {
+      "label": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.18}"
+          }
+        },
+        "inactive": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.18}"
+          }
+        }
+      }
+    },
+    "opacity": {
+      "disabled": {
+        "default": {
+          "$type": "opacity",
+          "$value": "{opacity.50}"
+        }
+      }
+    }
+  },
+  "segmentedControl": {
+    "colour": {
+      "default": {
+        "$type": "color",
+        "$value": "{colour.brand.pink.8}"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    },
+    "spacing": {
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      }
+    }
+  }
+}

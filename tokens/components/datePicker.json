@@ -1,0 +1,209 @@
+{
+  "month": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xl}"
+      }
+    },
+    "colour": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+        "fontWeight": "{fontWeight.700}",
+        "fontSize": "{fontSize.20}",
+        "lineHeight": "{lineHeight.24}"
+      }
+    }
+  },
+  "week": {
+    "colour": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand.butternutbox.body}",
+        "fontWeight": "{fontWeight.500}",
+        "fontSize": "{fontSize.18}",
+        "lineHeight": "{lineHeight.28}"
+      }
+    }
+  },
+  "dateItem": {
+    "size": {
+      "height": {
+        "$type": "sizing",
+        "$value": "{sizing.4xl}"
+      },
+      "indicator": {
+        "$type": "sizing",
+        "$value": "{sizing.3xl}"
+      },
+      "width": {
+        "$type": "sizing",
+        "$value": "{sizing.7xl}"
+      }
+    },
+    "spacing": {
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      }
+    },
+    "colour": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "previous": {
+          "$type": "color",
+          "$value": "{colour.text.placeholder}"
+        },
+        "nextBox": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.alt}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colour.text.alt}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        },
+        "futureBox": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      },
+      "border": {
+        "nextBoxSelected": {
+          "$type": "color",
+          "$value": "{colour.brand.brown-alpha.12}"
+        },
+        "futureBoxSelected": {
+          "$type": "color",
+          "$value": "{colour.brand.brown-alpha.12}"
+        }
+      }
+    },
+    "indicator": {
+      "colour": {
+        "background": {
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.background.container.secondary}"
+          },
+          "nextBox": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.brand.brown-alpha.12}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.brand.brown-alpha.12}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{colour.background.container.secondary}"
+            }
+          },
+          "futureBox": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.brand.brown.1}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.brand.brown.1}"
+            }
+          }
+        }
+      }
+    },
+    "borderRadius": {
+      "indicator": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    },
+    "borderWidth": {
+      "indicator": {
+        "selected": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.md}"
+        }
+      }
+    },
+    "opacity": {
+      "disabled": {
+        "$type": "opacity",
+        "$value": "0.35",
+        "$description": "No primitive exists for 0.35 - falls between opacity.30 and opacity.40"
+      }
+    },
+    "typography": {
+      "default": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.brand.butternutbox.body}",
+          "fontWeight": "{fontWeight.500}",
+          "fontSize": "{fontSize.18}",
+          "lineHeight": "{lineHeight.28}"
+        }
+      },
+      "currentDate": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.brand.butternutbox.body}",
+          "fontWeight": "{fontWeight.700}",
+          "fontSize": "{fontSize.18}",
+          "lineHeight": "{lineHeight.28}"
+        }
+      }
+    }
+  },
+  "dates": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.3xs}"
+      }
+    }
+  },
+  "datePicker": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xl}"
+      }
+    }
+  }
+}

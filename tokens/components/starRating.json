@@ -1,0 +1,30 @@
+{
+  "starRating": {
+    "sizing": {
+      "default": {
+        "$type": "sizing",
+        "$value": "{sizing.xl}"
+      }
+    },
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    },
+    "colour": {
+      "icon": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.brand}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    }
+  }
+}

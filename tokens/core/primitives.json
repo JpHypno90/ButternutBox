@@ -1,0 +1,1231 @@
+{
+  "colour": {
+    "brand": {
+      "yellow": {
+        "1": {
+          "$type": "color",
+          "$value": "#fffdf7",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#FFF6D8",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#FFF0C0",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#FFECA3",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#FFE180",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#F2D67E",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#E0C56E",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#CDAE44",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#FFD54D",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#E8C237",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#927300",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#433A1F",
+          "$description": "High-contrast text"
+        }
+      },
+      "brown": {
+        "1": {
+          "$type": "color",
+          "$value": "#EEEAE7",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#E9E4E0",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#E5DFDA",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#E3DCD7",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#E1D9D4",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#E0DDDB",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#C9BEB9",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#A78E7A",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#522A10",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#3E1C08",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#633F28",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#411F04",
+          "$description": "High-contrast text"
+        }
+      },
+      "pink": {
+        "1": {
+          "$type": "color",
+          "$value": "#FCECEC",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#F9DFE1",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#F6D1D4",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#F4C3C8",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#F1AEAF",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#D37B8F",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#B55173",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#A43260",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#80254A",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#671C3B",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#4D132D",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#350A1F",
+          "$description": "High-contrast text"
+        }
+      },
+      "blue": {
+        "1": {
+          "$type": "color",
+          "$value": "#F6FAFF",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#E9F3FF",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#DCEBFF",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#C8DEFF",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#B1D0FE",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#9BC3FE",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#78A9DE",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#447FBF",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#10507C",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#0C3A5B",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#08273C",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#041624",
+          "$description": "High-contrast text"
+        }
+      },
+      "red": {
+        "1": {
+          "$type": "color",
+          "$value": "#FFF7F6",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#FEEBE9",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#FAD8D6",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#FEC1BC",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#FEA59F",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#F9897C",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#ED6961",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#A83B2E",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#5F0300",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#4A0200",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#350100",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#210000",
+          "$description": "High-contrast text"
+        }
+      },
+      "brown-alpha": {
+        "1": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.05)",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.08)",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.14)",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.26)",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.34)",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.43)",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.49)",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.56)",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.93)",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.86)",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "rgba(82,42,16,0.75)",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "rgba(82,42,16.91)",
+          "$description": "High-contrast text"
+        }
+      }
+    },
+    "system": {
+      "neutral": {
+        "1": {
+          "$type": "color",
+          "$value": "#FFFFFF",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#F9F9F8",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#F1F0EF",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#E9E8E6",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#E2E1DE",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#DAD9D6",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#CFCECA",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#BCBBB5",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#8D8D86",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#82827C",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#63635E",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "High-contrast text"
+        }
+      },
+      "success": {
+        "1": {
+          "$type": "color",
+          "$value": "#F4FCF3",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#E9F7E7",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#D7EFDA",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#C0E4C4",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#A6D6A8",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#8ABF80",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#6CA766",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#4F8D4D",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#1D5C11",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#16470D",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#0A2506",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#0A2506",
+          "$description": "High-contrast text"
+        }
+      },
+      "warning": {
+        "1": {
+          "$type": "color",
+          "$value": "#FFF8F3",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#FCF2E8",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#F7E5D4",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#F2D2B6",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#ECB991",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#E8AC70",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#D28E49",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#C3752E",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#B46619",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#8F500F",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#6A3A0A",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#472606",
+          "$description": "High-contrast text"
+        }
+      },
+      "error": {
+        "1": {
+          "$type": "color",
+          "$value": "#FFF9F9",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "#FDF2F1",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "#F8E1DF",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "#F0C7C4",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "#DA9C9A",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#CA7F7D",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "#B76563",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#A24A47",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "#99110C",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#6F0C09",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "#4C0806",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "#2F0403",
+          "$description": "High-contrast text"
+        }
+      },
+      "neutral-alpha": {
+        "1": {
+          "$type": "color",
+          "$value": "rgba(0,0,85,0.01)",
+          "$description": "Background"
+        },
+        "2": {
+          "$type": "color",
+          "$value": "rgba(0,0,85,0.02)",
+          "$description": "Background\n"
+        },
+        "3": {
+          "$type": "color",
+          "$value": "rgba(0,16,64,0.06)",
+          "$description": "UI Element Background"
+        },
+        "4": {
+          "$type": "color",
+          "$value": "rgba(0,11,54,0.09)",
+          "$description": "Hovered UI Element Background"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "rgba(0,9,50,0.12)",
+          "$description": "Active/Selected UI Element Background"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "rgba(0,7,53,0.15)",
+          "$description": "Subtle Border/Seperators"
+        },
+        "7": {
+          "$type": "color",
+          "$value": "rgba(0,6,51,0.19)",
+          "$description": "UI Element Border and focus rings"
+        },
+        "8": {
+          "$type": "color",
+          "$value": "rgba(0,8,48,0.27)",
+          "$description": "Hovered UI Element Border"
+        },
+        "9": {
+          "$type": "color",
+          "$value": "rgba(0,5,29,0.45)",
+          "$description": "Solid Backgrounds"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "#00051B",
+          "$description": "Hovered Solid Backgrounds"
+        },
+        "11": {
+          "$type": "color",
+          "$value": "rgba(0,2,17,0.61)",
+          "$description": "Low-contrast text"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "rgba(0,1,7,0.88)",
+          "$description": "High-contrast text"
+        }
+      }
+    }
+  },
+  "dimension": {
+    "spacing": {
+      "2": {
+        "$type": "dimension",
+        "$value": "2px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "20": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "24": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "28": {
+        "$type": "dimension",
+        "$value": "28px"
+      },
+      "32": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "36": {
+        "$type": "dimension",
+        "$value": "36px"
+      },
+      "40": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "44": {
+        "$type": "dimension",
+        "$value": "44px"
+      },
+      "48": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "52": {
+        "$type": "dimension",
+        "$value": "52px"
+      },
+      "56": {
+        "$type": "dimension",
+        "$value": "56px"
+      },
+      "60": {
+        "$type": "dimension",
+        "$value": "60px"
+      },
+      "64": {
+        "$type": "dimension",
+        "$value": "64px"
+      },
+      "68": {
+        "$type": "dimension",
+        "$value": "68px"
+      },
+      "72": {
+        "$type": "dimension",
+        "$value": "72px"
+      },
+      "76": {
+        "$type": "dimension",
+        "$value": "76px"
+      },
+      "80": {
+        "$type": "dimension",
+        "$value": "80px"
+      },
+      "100": {
+        "$type": "dimension",
+        "$value": "100px"
+      }
+    },
+    "sizing": {
+      "1": {
+        "$type": "dimension",
+        "$value": "1px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "2px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "20": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "24": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "28": {
+        "$type": "dimension",
+        "$value": "28px"
+      },
+      "32": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "36": {
+        "$type": "dimension",
+        "$value": "36px"
+      },
+      "40": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "44": {
+        "$type": "dimension",
+        "$value": "44px"
+      },
+      "48": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "52": {
+        "$type": "dimension",
+        "$value": "52px"
+      },
+      "56": {
+        "$type": "dimension",
+        "$value": "56px"
+      },
+      "60": {
+        "$type": "dimension",
+        "$value": "60px"
+      },
+      "64": {
+        "$type": "dimension",
+        "$value": "64px"
+      },
+      "68": {
+        "$type": "dimension",
+        "$value": "68px"
+      },
+      "72": {
+        "$type": "dimension",
+        "$value": "72px"
+      },
+      "76": {
+        "$type": "dimension",
+        "$value": "76px"
+      },
+      "80": {
+        "$type": "dimension",
+        "$value": "80px"
+      },
+      "140": {
+        "$type": "dimension",
+        "$value": "140px"
+      },
+      "180": {
+        "$type": "dimension",
+        "$value": "180px"
+      },
+      "320": {
+        "$type": "dimension",
+        "$value": "320px"
+      },
+      "400": {
+        "$type": "dimension",
+        "$value": "400px"
+      },
+      "500": {
+        "$type": "dimension",
+        "$value": "500px"
+      }
+    },
+    "radius": {
+      "2": {
+        "$type": "dimension",
+        "$value": "2px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "100": {
+        "$type": "dimension",
+        "$value": "100px"
+      }
+    }
+  },
+  "fontWeight": {
+    "100": {
+      "$type": "fontWeights",
+      "$value": "100"
+    },
+    "200": {
+      "$type": "fontWeights",
+      "$value": "200"
+    },
+    "300": {
+      "$type": "fontWeights",
+      "$value": "300"
+    },
+    "400": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "500": {
+      "$type": "fontWeights",
+      "$value": "500"
+    },
+    "600": {
+      "$type": "fontWeights",
+      "$value": "600"
+    },
+    "700": {
+      "$type": "fontWeights",
+      "$value": "700"
+    },
+    "800": {
+      "$type": "fontWeights",
+      "$value": "800"
+    },
+    "900": {
+      "$type": "fontWeights",
+      "$value": "900"
+    }
+  },
+  "lineHeight": {
+    "16": {
+      "$type": "lineHeights",
+      "$value": "16"
+    },
+    "18": {
+      "$type": "lineHeights",
+      "$value": "18"
+    },
+    "20": {
+      "$type": "lineHeights",
+      "$value": "20"
+    },
+    "24": {
+      "$type": "lineHeights",
+      "$value": "24"
+    },
+    "28": {
+      "$type": "lineHeights",
+      "$value": "28"
+    },
+    "32": {
+      "$type": "lineHeights",
+      "$value": "32"
+    },
+    "36": {
+      "$type": "lineHeights",
+      "$value": "36"
+    },
+    "40": {
+      "$type": "lineHeights",
+      "$value": "40"
+    },
+    "44": {
+      "$type": "lineHeights",
+      "$value": "44"
+    },
+    "48": {
+      "$type": "lineHeights",
+      "$value": "48"
+    },
+    "56": {
+      "$type": "lineHeights",
+      "$value": "56"
+    },
+    "64": {
+      "$type": "lineHeights",
+      "$value": "64"
+    },
+    "68": {
+      "$type": "lineHeights",
+      "$value": "68"
+    },
+    "72": {
+      "$type": "lineHeights",
+      "$value": "72"
+    },
+    "80": {
+      "$type": "lineHeights",
+      "$value": "80"
+    }
+  },
+  "fontSize": {
+    "12": {
+      "$type": "fontSizes",
+      "$value": "12"
+    },
+    "14": {
+      "$type": "fontSizes",
+      "$value": "14px"
+    },
+    "16": {
+      "$type": "fontSizes",
+      "$value": "16px"
+    },
+    "18": {
+      "$type": "fontSizes",
+      "$value": "18px"
+    },
+    "20": {
+      "$type": "fontSizes",
+      "$value": "20px"
+    },
+    "22": {
+      "$type": "fontSizes",
+      "$value": "22px"
+    },
+    "24": {
+      "$type": "fontSizes",
+      "$value": "24px"
+    },
+    "28": {
+      "$type": "fontSizes",
+      "$value": "28px"
+    },
+    "32": {
+      "$type": "fontSizes",
+      "$value": "32px"
+    },
+    "36": {
+      "$type": "fontSizes",
+      "$value": "36px"
+    },
+    "40": {
+      "$type": "fontSizes",
+      "$value": "40px"
+    },
+    "44": {
+      "$type": "fontSizes",
+      "$value": "44px"
+    },
+    "48": {
+      "$type": "fontSizes",
+      "$value": "48px"
+    },
+    "52": {
+      "$type": "fontSizes",
+      "$value": "52px"
+    },
+    "56": {
+      "$type": "fontSizes",
+      "$value": "56px"
+    },
+    "60": {
+      "$type": "fontSizes",
+      "$value": "60px"
+    },
+    "72": {
+      "$type": "fontSizes",
+      "$value": "72"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "$type": "textDecoration",
+      "$value": "none",
+      "$description": "No text decoration"
+    },
+    "underline": {
+      "$type": "textDecoration",
+      "$value": "underline",
+      "$description": "Underlines the text"
+    },
+    "lineThrough": {
+      "$type": "textDecoration",
+      "$value": "line-through",
+      "$description": "Draws a line through the text"
+    }
+  },
+  "textCase": {
+    "none": {
+      "$type": "textCase",
+      "$value": "none",
+      "$description": "No text transformation"
+    },
+    "uppercase": {
+      "$type": "textCase",
+      "$value": "uppercase",
+      "$description": "Transforms text to uppercase"
+    },
+    "lowercase": {
+      "$type": "textCase",
+      "$value": "lowercase",
+      "$description": "Transforms text to lowercase"
+    },
+    "capitalize": {
+      "$type": "textCase",
+      "$value": "capitalize",
+      "$description": "Capitalizes the first letter of each word"
+    }
+  },
+  "fontFamily": {
+    "brand": {
+      "butternutbox": {
+        "headings": {
+          "$type": "fontFamilies",
+          "$value": "Ida Narrow"
+        },
+        "body": {
+          "$type": "fontFamilies",
+          "$value": "IBM Plex Sans Condensed"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "0": {
+      "$type": "opacity",
+      "$value": "0"
+    },
+    "2": {
+      "$type": "opacity",
+      "$value": "0.02"
+    },
+    "4": {
+      "$type": "opacity",
+      "$value": "0.04"
+    },
+    "5": {
+      "$type": "opacity",
+      "$value": "0.05"
+    },
+    "8": {
+      "$type": "opacity",
+      "$value": "0.08"
+    },
+    "10": {
+      "$type": "opacity",
+      "$value": "0.10"
+    },
+    "15": {
+      "$type": "opacity",
+      "$value": "0.15"
+    },
+    "20": {
+      "$type": "opacity",
+      "$value": "0.20"
+    },
+    "30": {
+      "$type": "opacity",
+      "$value": "0.30"
+    },
+    "40": {
+      "$type": "opacity",
+      "$value": "0.40"
+    },
+    "50": {
+      "$type": "opacity",
+      "$value": "0.50"
+    },
+    "60": {
+      "$type": "opacity",
+      "$value": "0.60"
+    },
+    "75": {
+      "$type": "opacity",
+      "$value": "0.75"
+    },
+    "100": {
+      "$type": "opacity",
+      "$value": "1"
+    }
+  },
+  "letterSpacing": {
+    "12": {
+      "$type": "letterSpacing",
+      "$value": "0.12%"
+    }
+  },
+  "paragrahSpacing": {
+    "20": {
+      "$type": "paragraphSpacing",
+      "$value": "20"
+    },
+    "24": {
+      "$type": "paragraphSpacing",
+      "$value": "24"
+    },
+    "28": {
+      "$type": "paragraphSpacing",
+      "$value": "28"
+    }
+  }
+}

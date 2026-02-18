@@ -1,0 +1,29 @@
+{
+  "dividers": {
+    "colour": {
+      "light": {
+        "$type": "color",
+        "$value": "{colour.border.divider}"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "{colour.brand.yellow.7}",
+        "$description": "No semantic exists for yellow.7 - primitive used directly"
+      }
+    },
+    "size": {
+      "small": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      },
+      "medium": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      },
+      "large": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.lg}"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "primaryTab": {
+    "tabitem": {
+      "size": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.6xl}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.76}"
+        }
+      }
+    },
+    "tabItem": {
+      "spacing": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "colour": {
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.action.default}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colour.background.surface.disabled}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.border.input.default}"
+          }
+        },
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.action.default}"
+          }
+        }
+      },
+      "borderWidth": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.lg}"
+        }
+      },
+      "typography": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.20}",
+            "lineHeight": "{lineHeight.24}"
+          }
+        },
+        "disabled": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.20}",
+            "lineHeight": "{lineHeight.24}"
+          }
+        }
+      }
+    }
+  }
+}

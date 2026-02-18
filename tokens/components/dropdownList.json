@@ -1,0 +1,123 @@
+{
+  "dropdown": {
+    "listItem": {
+      "size": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.3xl}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.320}"
+        }
+      },
+      "colour": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.surface.default}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.background.container.secondary}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colour.background.surface.disabled}"
+          }
+        },
+        "text": {
+          "placeholder": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.icon.primary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.text.disabled}"
+            }
+          },
+          "hint": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.text.secondary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.text.disabled}"
+            }
+          }
+        }
+      },
+      "spacing": {
+        "horiztonalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "content": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "typography": {
+        "placeholder": {
+          "default": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.body}",
+              "fontWeight": "{fontWeight.600}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}"
+            }
+          },
+          "hover": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.body}",
+              "fontWeight": "{fontWeight.700}",
+              "fontSize": "{fontSize.16}",
+              "lineHeight": "{lineHeight.24}"
+            }
+          }
+        },
+        "hint": {
+          "default": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.body}",
+              "fontWeight": "{fontWeight.500}",
+              "fontSize": "{fontSize.14}",
+              "lineHeight": "{lineHeight.20}"
+            }
+          }
+        }
+      }
+    },
+    "list": {
+      "size": {
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.320}"
+        }
+      },
+      "borderRadius": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.sm}"
+        }
+      },
+      "dropshadow": {
+        "default": {
+          "$type": "boxShadow",
+          "$value": "{shadow.md}"
+        }
+      }
+    }
+  }
+}

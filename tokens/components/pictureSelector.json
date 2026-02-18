@@ -1,0 +1,93 @@
+{
+  "pictureButton": {
+    "spacing": {
+      "padding": {
+        "$type": "spacing",
+        "$value": "{spacing.sm}"
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.surface.default}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{colour.brand.pink.1}",
+          "$description": "No background semantic exists for pink.1"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.border.default}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.border.action.hover}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{colour.border.action.selected}"
+        }
+      },
+      "pointer": {
+        "$type": "color",
+        "$value": "{colour.background.container.brand}"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.md}"
+      }
+    },
+    "borderWidth": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      },
+      "hover": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      },
+      "active": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      }
+    }
+  },
+  "pictureSelector": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      },
+      "container": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "buttons": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "label": {
+        "$type": "color",
+        "$value": "{colour.text.primary}"
+      }
+    },
+    "typography": {
+      "label": {
+        "$type": "typography",
+        "$value": "{typography.body.bold.md}"
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "buttons": {
+    "text": {
+      "primary": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.20}"
+          }
+        }
+      }
+    },
+    "size": {
+      "lg": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.52}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.60}"
+        }
+      },
+      "md": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.44}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.60}"
+        }
+      },
+      "sm": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.36}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.60}"
+        }
+      }
+    },
+    "spacing": {
+      "lg": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xl}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      },
+      "md": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      },
+      "sm": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    },
+    "opacity": {
+      "disabled": {
+        "$type": "opacity",
+        "$value": "{opacity.50}"
+      }
+    },
+    "filledButton": {
+      "colour": {
+        "background": {
+          "primary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.background.action.primary.default}"
+            },
+            "hover": {
+              "$type": "color",
+              "$value": "{colour.background.action.primary.hover}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.background.action.primary.disabled}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{colour.background.action.primary.selected}"
+            }
+          },
+          "secondary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.background.action.secondary.default}"
+            },
+            "hover": {
+              "$type": "color",
+              "$value": "{colour.background.action.secondary.hover}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{colour.background.action.secondary.disabled}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{colour.background.action.secondary.selected}"
+            }
+          }
+        },
+        "text": {
+          "primary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.text.alt}"
+            }
+          },
+          "secondary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.text.action.default}"
+            }
+          }
+        },
+        "icon": {
+          "primary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.icon.alt}"
+            }
+          },
+          "secondary": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.icon.action.default}"
+            }
+          }
+        }
+      }
+    },
+    "outlineButton": {
+      "colour": {
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.action.default}"
+          }
+        },
+        "background": {
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.background.action.secondary.default}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.background.action.primary.default}"
+          }
+        },
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.action.default}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.text.action.inverse}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.action.default}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.icon.action.inverse}"
+          }
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.md}"
+        }
+      }
+    },
+    "textButton": {
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.action.default}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{colour.text.action.inverse}"
+        }
+      },
+      "background": {
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.background.action.secondary.default}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{colour.background.action.primary.default}"
+        }
+      },
+      "icon": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.icon.action.default}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{colour.icon.action.inverse}"
+        }
+      }
+    },
+    "iconButton": {
+      "filledButton": {
+        "colour": {
+          "background": {
+            "primary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.background.action.primary.default}"
+              },
+              "hover": {
+                "$type": "color",
+                "$value": "{colour.background.action.primary.hover}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{colour.background.action.primary.disabled}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{colour.background.action.primary.selected}"
+              }
+            },
+            "secondary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.background.action.secondary.default}"
+              },
+              "hover": {
+                "$type": "color",
+                "$value": "{colour.background.action.secondary.hover}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{colour.background.action.secondary.disabled}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{colour.background.action.secondary.selected}"
+              }
+            },
+            "tertiary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.background.container.default}"
+              },
+              "hover": {
+                "$type": "color",
+                "$value": "{colour.brand.pink.8}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{colour.background.action.secondary.disabled}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{colour.background.action.primary.selected}"
+              }
+            }
+          },
+          "icon": {
+            "primary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.icon.alt}"
+              }
+            },
+            "secondary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.icon.action.default}"
+              }
+            },
+            "tertiary": {
+              "default": {
+                "$type": "color",
+                "$value": "{colour.icon.action.default}"
+              },
+              "hover": {
+                "$type": "color",
+                "$value": "{colour.icon.action.inverse}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{colour.icon.action.inverse}"
+              }
+            }
+          }
+        }
+      },
+      "outlineButton": {
+        "colour": {
+          "border": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.border.action.default}"
+            }
+          },
+          "background": {
+            "hover": {
+              "$type": "color",
+              "$value": "{colour.background.action.secondary.default}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{colour.background.action.primary.default}"
+            }
+          },
+          "icon": {
+            "default": {
+              "$type": "color",
+              "$value": "{colour.icon.action.default}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{colour.icon.action.inverse}"
+            }
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "borderWidth",
+            "$value": "{borderWidth.md}"
+          }
+        }
+      },
+      "textButton": {
+        "background": {
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.background.action.secondary.default}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.background.action.primary.default}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.icon.action.default}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.icon.action.inverse}"
+          }
+        }
+      }
+    }
+  }
+}

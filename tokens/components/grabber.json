@@ -1,0 +1,24 @@
+{
+  "grabber": {
+    "size": {
+      "bar": {
+        "width": {
+          "$type": "sizing",
+          "$value": "{sizing.4xl}"
+        },
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.2xs}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.border.default}"
+        }
+      }
+    }
+  }
+}

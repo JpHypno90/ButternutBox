@@ -1,0 +1,80 @@
+{
+  "slider": {
+    "sizing": {
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{dimension.sizing.200}"
+      },
+      "track": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.6}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.200}"
+        }
+      }
+    },
+    "colour": {
+      "track": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.surface.disabled}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.input.default}"
+          }
+        }
+      },
+      "indicator": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      }
+    }
+  },
+  "sliderField": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.sm}"
+      },
+      "label": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "text": {
+        "label": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "description": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    },
+    "typography": {
+      "label": {
+        "$type": "typography",
+        "$value": "{typography.body.semiBold.lg}"
+      },
+      "description": {
+        "$type": "typography",
+        "$value": "{typography.body.medium.sm}"
+      }
+    }
+  }
+}

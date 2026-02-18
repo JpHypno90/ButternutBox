@@ -1,0 +1,68 @@
+{
+  "buttonDock": {
+    "list": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "colour": {
+        "text": {
+          "header": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.secondary}"
+          },
+          "footer": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      },
+      "typography": {
+        "header": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.md}"
+        },
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.medium.md}"
+        },
+        "footer": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.md}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "$type": "color",
+        "$value": "{colour.background.surface.default}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{colour.border.default}"
+      }
+    },
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.sm}"
+      },
+      "padding": {
+        "default": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "desktop": {
+          "$type": "spacing",
+          "$value": "{spacing.xl}"
+        }
+      }
+    }
+  }
+}

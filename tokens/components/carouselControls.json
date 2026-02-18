@@ -1,0 +1,48 @@
+{
+  "carouselControl": {
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.surface.default}"
+        }
+      },
+      "slot": {
+        "active": {
+          "$type": "color",
+          "$value": "{colour.background.action.primary.default}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{colour.background.action.primary.disabled}"
+        }
+      }
+    },
+    "sizing": {
+      "slot": {
+        "default": {
+          "$type": "sizing",
+          "$value": "{sizing.xs}"
+        },
+        "inactiveSmall": {
+          "$type": "sizing",
+          "$value": "{sizing.2xs}"
+        },
+        "inactiveMedium": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.6}"
+        }
+      },
+      "default": {
+        "$type": "sizing",
+        "$value": "{sizing.md}"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.round}"
+      }
+    }
+  }
+}

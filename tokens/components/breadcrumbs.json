@@ -1,0 +1,59 @@
+{
+  "breadcrumbs": {
+    "size": {
+      "link": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        }
+      }
+    },
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      },
+      "link": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "link": {
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      }
+    },
+    "typography": {
+      "link": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{sizing.xl}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        }
+      },
+      "currentPage": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{sizing.xl}"
+          }
+        }
+      }
+    }
+  }
+}
