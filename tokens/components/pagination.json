@@ -1,0 +1,10 @@
+{
+  "pagination": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    }
+  }
+}

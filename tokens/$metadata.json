@@ -33,7 +33,8 @@
     "components/dividers",
     "components/modal",
     "components/productListing",
-    "components/notification",
-    "components/pictureSelector"
+    "components/pictureSelector",
+    "components/pagination",
+    "components/accordion"
   ]
 }

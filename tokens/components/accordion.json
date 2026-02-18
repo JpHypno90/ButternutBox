@@ -1,0 +1,34 @@
+{
+  "accordion": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.lg}"
+      },
+      "content": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "subText": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      },
+      "icon": {
+        "primary": {
+          "$type": "color",
+          "$value": "{colour.icon.primary}"
+        }
+      }
+    }
+  }
+}

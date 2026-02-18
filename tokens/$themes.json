@@ -175,9 +175,7 @@
       "typography.heading.mobile.lg": "S:e4fa674c79e9c166218735ff1ed59327f739030d,",
       "typography.heading.mobile.xl": "S:7d46437bd4540843f483823ae5b52ac19e167e45,"
     },
-    "selectedTokenSets": {
-      "Core/primitives": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:398:8951",
     "$figmaModeId": "398:0",
     "$figmaVariableReferences": {
@@ -484,12 +482,7 @@
       "typography.heading.mobile.lg": "S:e4fa674c79e9c166218735ff1ed59327f739030d,",
       "typography.heading.mobile.xl": "S:7d46437bd4540843f483823ae5b52ac19e167e45,"
     },
-    "selectedTokenSets": {
-      "Semantics/Colour": "enabled",
-      "Semantics/Typography": "enabled",
-      "Semantics/Dimensions": "enabled",
-      "Core/primitives": "source"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:398:8952",
     "$figmaModeId": "398:1",
     "$figmaVariableReferences": {
@@ -605,43 +598,7 @@
     "id": "7b0880cf7b5e9c1962d14e3c8c094cfb342fac79",
     "name": "ButternutBox",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Semantics/Colour": "source",
-      "Semantics/Typography": "source",
-      "Semantics/Dimensions": "source",
-      "Components/Buttons": "enabled",
-      "Components/Icons": "enabled",
-      "Components/Illustrations": "enabled",
-      "Components/Radio": "enabled",
-      "Components/Checkbox": "enabled",
-      "Components/switch": "enabled",
-      "Components/Inputs": "enabled",
-      "Components/validationList": "enabled",
-      "Components/dropdownList": "enabled",
-      "Components/slider": "enabled",
-      "Components/grabber": "enabled",
-      "Components/breadcrumbs": "enabled",
-      "Components/spinner": "enabled",
-      "Components/segmentedControl": "enabled",
-      "Components/primaryTab": "enabled",
-      "Components/carouselControls": "enabled",
-      "Components/badges": "enabled",
-      "Components/tags": "enabled",
-      "Components/avatar": "enabled",
-      "Components/starRating": "enabled",
-      "Components/step": "enabled",
-      "Components/progress": "enabled",
-      "Components/datePicker": "enabled",
-      "Components/buttonDock": "enabled",
-      "Components/buttonGroup": "enabled",
-      "Components/filterTabs": "enabled",
-      "Components/dividers": "enabled",
-      "Components/pictureSelector": "enabled",
-      "Core/primitives": "source",
-      "Components/modal": "enabled",
-      "Components/pagination": "enabled",
-      "Components/accordion": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:6017:171",
     "$figmaModeId": "6017:0",
     "$figmaVariableReferences": {
