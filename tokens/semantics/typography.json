@@ -1,0 +1,442 @@
+{
+  "typography": {
+    "body": {
+      "semiBold": {
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.12}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "should be used sparingly, only for labels or image descriptors"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "Ideal for terms and conditions, as well as help labels."
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.24}"
+          },
+          "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.28}"
+          },
+          "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
+        }
+      },
+      "bold": {
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.12}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "should be used sparingly, only for labels or image descriptors"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "Ideal for terms and conditions, as well as help labels."
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.24}"
+          },
+          "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.28}"
+          },
+          "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
+        }
+      },
+      "medium": {
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.12}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "should be used sparingly, only for labels or image descriptors"
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.20}"
+          },
+          "$description": "Ideal for terms and conditions, as well as help labels."
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.24}"
+          },
+          "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "paragraphSpacing": "{paragrahSpacing.28}"
+          },
+          "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
+        }
+      }
+    },
+    "link": {
+      "semiBold": {
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.600}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        }
+      },
+      "bold": {
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        }
+      },
+      "medium": {
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.14}",
+            "lineHeight": "{lineHeight.20}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeight.24}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.body}",
+            "fontWeight": "{fontWeight.500}",
+            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeight.28}",
+            "letterSpacing": "{letterSpacing.12}",
+            "textDecoration": "{textDecoration.underline}"
+          }
+        }
+      }
+    },
+    "heading": {
+      "desktop": {
+        "2xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "{fontSize.20}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.28}",
+            "fontSize": "{fontSize.24}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "sm": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.32}",
+            "fontSize": "{fontSize.28}",
+            "letterSpacing": "{letterSpacing.12}"
+          }
+        },
+        "md": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.36}",
+            "fontSize": "{fontSize.32}",
+            "letterSpacing": "{letterSpacing.12}"
+          }
+        },
+        "lg": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.44}",
+            "fontSize": "{fontSize.40}",
+            "letterSpacing": "{letterSpacing.12}"
+          }
+        },
+        "xl": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.56}",
+            "fontSize": "{fontSize.48}",
+            "letterSpacing": "{letterSpacing.12}"
+          }
+        }
+      },
+      "display": {
+        "desktop": {
+          "md": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+              "fontWeight": "{fontWeight.700}",
+              "lineHeight": "{lineHeight.68}",
+              "fontSize": "{fontSize.60}",
+              "letterSpacing": "{letterSpacing.12}"
+            },
+            "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
+          },
+          "lg": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+              "fontWeight": "{fontWeight.700}",
+              "fontSize": "{fontSize.72}",
+              "letterSpacing": "{letterSpacing.12}",
+              "lineHeight": "{lineHeight.80}"
+            },
+            "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
+          }
+        },
+        "mobile": {
+          "md": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+              "fontWeight": "{fontWeight.700}",
+              "lineHeight": "{lineHeight.56}",
+              "fontSize": "{fontSize.48}",
+              "letterSpacing": "{letterSpacing.12}"
+            },
+            "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
+          },
+          "lg": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+              "fontWeight": "{fontWeight.700}",
+              "fontSize": "{fontSize.60}",
+              "letterSpacing": "{letterSpacing.12}",
+              "lineHeight": "{lineHeight.68}"
+            },
+            "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
+          }
+        }
+      },
+      "mobile": {
+        "$type": "typography",
+        "2xs": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.20}",
+            "fontSize": "{fontSize.16}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "xs": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.24}",
+            "fontSize": "{fontSize.20}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "sm": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.28}",
+            "fontSize": "{fontSize.24}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "md": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.32}",
+            "fontSize": "{fontSize.28}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "lg": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.36}",
+            "fontSize": "{fontSize.32}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        },
+        "xl": {
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "lineHeight": "{lineHeight.44}",
+            "fontSize": "{fontSize.40}",
+            "letterSpacing": "{letterSpacing.12}"
+          },
+          "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        }
+      }
+    }
+  }
+}

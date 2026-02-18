@@ -1,0 +1,158 @@
+{
+  "sizing": {
+    "3xs": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.2}"
+    },
+    "2xs": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.4}"
+    },
+    "xs": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.8}"
+    },
+    "sm": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.12}"
+    },
+    "md": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.16}"
+    },
+    "lg": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.20}"
+    },
+    "xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.24}"
+    },
+    "2xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.32}"
+    },
+    "3xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.40}"
+    },
+    "4xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.48}"
+    },
+    "5xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.56}"
+    },
+    "6xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.64}"
+    },
+    "7xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.72}"
+    },
+    "8xl": {
+      "$type": "sizing",
+      "$value": "{dimension.sizing.80}"
+    }
+  },
+  "spacing": {
+    "3xs": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.2}"
+    },
+    "2xs": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.4}"
+    },
+    "xs": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.8}"
+    },
+    "sm": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.12}"
+    },
+    "md": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.16}"
+    },
+    "lg": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.20}"
+    },
+    "xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.24}"
+    },
+    "2xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.32}"
+    },
+    "3xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.40}"
+    },
+    "4xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.48}"
+    },
+    "5xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.56}"
+    },
+    "6xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.64}"
+    },
+    "7xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.72}"
+    },
+    "8xl": {
+      "$type": "spacing",
+      "$value": "{dimension.spacing.80}"
+    }
+  },
+  "borderWidth": {
+    "sm": {
+      "$type": "borderWidth",
+      "$value": "{dimension.sizing.1}"
+    },
+    "md": {
+      "$type": "borderWidth",
+      "$value": "{dimension.sizing.2}"
+    },
+    "focus": {
+      "$type": "borderWidth",
+      "$value": "{dimension.sizing.4}"
+    },
+    "lg": {
+      "$type": "borderWidth",
+      "$value": "{dimension.sizing.4}"
+    }
+  },
+  "borderRadius": {
+    "xs": {
+      "$type": "borderRadius",
+      "$value": "{dimension.radius.4}"
+    },
+    "sm": {
+      "$type": "borderRadius",
+      "$value": "{dimension.radius.8}"
+    },
+    "md": {
+      "$type": "borderRadius",
+      "$value": "{dimension.radius.12}"
+    },
+    "lg": {
+      "$type": "borderRadius",
+      "$value": "{dimension.radius.16}"
+    },
+    "round": {
+      "$type": "borderRadius",
+      "$value": "{dimension.radius.100}"
+    }
+  }
+}

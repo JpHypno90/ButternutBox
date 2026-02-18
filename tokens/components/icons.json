@@ -1,0 +1,70 @@
+{
+  "sizing": {
+    "icons": {
+      "core": {
+        "xs": {
+          "$type": "sizing",
+          "$value": "{sizing.md}"
+        },
+        "sm": {
+          "$type": "sizing",
+          "$value": "{sizing.lg}"
+        },
+        "md": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.28}"
+        },
+        "xl": {
+          "$type": "sizing",
+          "$value": "{sizing.2xl}"
+        }
+      },
+      "marketing": {
+        "xs": {
+          "$type": "sizing",
+          "$value": "{sizing.2xl}"
+        },
+        "sm": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.36}"
+        },
+        "md": {
+          "$type": "sizing",
+          "$value": "{sizing.3xl}"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.44}"
+        },
+        "xl": {
+          "$type": "sizing",
+          "$value": "{sizing.4xl}"
+        },
+        "2xl": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.52}"
+        }
+      },
+      "payments": {
+        "sm": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        }
+      },
+      "flags": {
+        "sm": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "{sizing.xl}"
+        }
+      }
+    }
+  }
+}
