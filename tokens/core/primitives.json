@@ -378,7 +378,7 @@
       "neutral": {
         "1": {
           "$type": "color",
-          "$value": "#FFFFFF",
+          "$value": "#ffff",
           "$description": "Background"
         },
         "2": {

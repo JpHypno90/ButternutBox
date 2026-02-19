@@ -1,0 +1,16 @@
+{
+  "notification": {
+    "colour": {
+      "background": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.brand.red.2}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.system.success.2}"
+        }
+      }
+    }
+  }
+}

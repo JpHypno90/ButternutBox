@@ -1,0 +1,94 @@
+{
+  "numberField": {
+    "spacing": {
+      "large": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "group": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        }
+      },
+      "small": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "group": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        }
+      }
+    },
+    "colour": {
+      "text": {
+        "label": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "description": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      },
+      "field": {
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.input.default}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.border.input.hover}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.border.input.selected}"
+          },
+          "edited": {
+            "$type": "color",
+            "$value": "{colour.border.input.default}"
+          }
+        },
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.surface.default}"
+          }
+        }
+      }
+    },
+    "borderRadius": {
+      "field": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.sm}"
+        }
+      }
+    },
+    "typography": {
+      "field": {
+        "small": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.xs}"
+        },
+        "large": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.md}"
+        }
+      }
+    }
+  }
+}
