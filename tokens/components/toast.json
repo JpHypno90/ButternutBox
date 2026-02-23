@@ -97,6 +97,16 @@
         "$type": "boxShadow",
         "$value": "{shadow.md}"
       }
+    },
+    "typography": {
+      "body": {
+        "$type": "typography",
+        "$value": "{typography.body.medium.md}"
+      },
+      "link": {
+        "$type": "typography",
+        "$value": "{typography.link.semiBold.md}"
+      }
     }
   }
 }
