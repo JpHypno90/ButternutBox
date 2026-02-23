@@ -1,13 +1,99 @@
 {
   "notification": {
     "spacing": {
-      "gap": {
-        "$type": "spacing",
-        "$value": "{dimensions.sizing.md}"
-      },
       "horizontalPadding": {
         "$type": "spacing",
-        "$value": "{dimensions.sizing.md}"
+        "$value": "{spacing.md}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      }
+    },
+    "content": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "copy": {
+        "spacing": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.3xs}"
+          }
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.background.container.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.background.container.success}"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "{colour.background.container.warning}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.background.container.info}"
+        }
+      },
+      "icon": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.icon.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.icon.success}"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "{colour.icon.warning}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.icon.info}"
+        }
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.sm}"
+      }
+    }
+  },
+  "notifications": {
+    "typography": {
+      "title": {
+        "$type": "typography",
+        "$value": "{typography.body.bold.md}"
+      },
+      "body": {
+        "$type": "typography",
+        "$value": "{typography.body.medium.md}"
       }
     }
   }
