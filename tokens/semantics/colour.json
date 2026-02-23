@@ -51,6 +51,10 @@
         "error": {
           "$type": "color",
           "$value": "{colour.system.error.1}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.brand.blue.2}"
         }
       },
       "action": {
@@ -280,6 +284,10 @@
           "$type": "color",
           "$value": "{colour.brand.pink.1}"
         }
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{colour.brand.blue.9}"
       }
     },
     "illustrations": {
