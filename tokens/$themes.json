@@ -505,6 +505,7 @@
       "colour.background.container.success": "2c0ac048ab0e4d66f8872e86a428acca93f80dea",
       "colour.background.container.warning": "f9db1c8c48d95a2e47facfeb1bad3c458431a707",
       "colour.background.container.error": "76fa7bb1468b20b85094d2d6a88361ba6c846e2d",
+      "colour.background.container.info": "1f3da2a0b01945a6f98370675a48247ed06c6afd",
       "colour.background.action.primary.default": "bf07c5af297984488b3480c0a2d9823b492a89cf",
       "colour.background.action.primary.hover": "26864124765f56741cfc550c42b26edca272d2d8",
       "colour.background.action.primary.disabled": "5c476c6232644cf108b00311467c8e8fcdb8177d",
@@ -513,6 +514,7 @@
       "colour.background.action.secondary.hover": "847d4646ecb68ec6ed62352f47610464bd3839b3",
       "colour.background.action.secondary.disabled": "78b52980f6e1095bd108fd5901c6ee520a45a636",
       "colour.background.action.secondary.selected": "365fd32c1b2ee95bb6627d1c653503d2427b2a65",
+      "colour.background.solid.success": "f6e6006e4bc9a6d7d504f03a4fa78e9aaf6056c4",
       "colour.background.solid.warning": "0987882dc2f3eff7dd44830596f54ee2c2ea6e27",
       "colour.background.solid.error": "cd900eec8aa978804b99cf9b2ac01f38eac10cf8",
       "colour.text.primary": "f050dc7486db5d3b3c6ffe5e3661e3abed1406ea",
@@ -555,6 +557,7 @@
       "colour.icon.promo": "d88be9c7785ad16b5aec0f57ff9aebd233d411b5",
       "colour.icon.action.default": "4dcb8e0c4327fc57e3629d9160aca9ef9aa0a533",
       "colour.icon.action.inverse": "31a98cce2dfaae4baf07057caf17ca5ed94af1a9",
+      "colour.icon.info": "f1b71e5a0ca7b3f8376c1292e87c7d2d922445b7",
       "colour.illustrations.primary": "f3d35be5a70138d87bbde5f361c5f9fe43a9208a",
       "colour.illustrations.secondary": "c88df3b95b4cfa0b939a0a1b7ec68149e9bd4a4a",
       "colour.illustrations.alt-2": "220df72d5737a20af14246087e2394489b559972",
@@ -596,8 +599,7 @@
       "borderRadius.sm": "f1bb671299598dfd9aef7d878f8c2a88f57cca38",
       "borderRadius.md": "1f51b9809786d3246c67356bf6eb5bfe49fd1b61",
       "borderRadius.lg": "b9f13c80cc5505af1198d0b020320ea23774efba",
-      "borderRadius.round": "b62ea40a06e4b1432c998ad2904e4f378abe7a61",
-      "colour.background.solid.success": "f6e6006e4bc9a6d7d504f03a4fa78e9aaf6056c4"
+      "borderRadius.round": "b62ea40a06e4b1432c998ad2904e4f378abe7a61"
     },
     "group": "Semantics"
   },

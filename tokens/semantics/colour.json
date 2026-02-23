@@ -42,15 +42,15 @@
         },
         "success": {
           "$type": "color",
-          "$value": "{colour.system.success.1}"
+          "$value": "{colour.system.success.2}"
         },
         "warning": {
           "$type": "color",
-          "$value": "{colour.system.warning.1}"
+          "$value": "{colour.system.warning.2}"
         },
         "error": {
           "$type": "color",
-          "$value": "{colour.system.error.1}"
+          "$value": "{colour.system.error.2}"
         },
         "info": {
           "$type": "color",
