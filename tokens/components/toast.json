@@ -1,0 +1,102 @@
+{
+  "toast": {
+    "spacing": {
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.md}"
+      }
+    },
+    "content": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "copy": {
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.default}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.border.default}"
+        }
+      },
+      "icon": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.icon.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.icon.success}"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "{colour.icon.warning}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.icon.info}"
+        }
+      },
+      "text": {
+        "body": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "link": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "link": {
+      "spacing": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        }
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.sm}"
+      }
+    },
+    "borderWidth": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.md}"
+      }
+    },
+    "shaddow": {
+      "default": {
+        "$type": "boxShadow",
+        "$value": "{shadow.md}"
+      }
+    }
+  }
+}
