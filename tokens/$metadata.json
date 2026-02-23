@@ -37,6 +37,7 @@
     "components/pagination",
     "components/numberField",
     "components/notifications",
+    "components/toast",
     "components/accordion"
   ]
 }
