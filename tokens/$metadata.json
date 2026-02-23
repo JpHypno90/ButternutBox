@@ -35,8 +35,8 @@
     "components/productListing",
     "components/pictureSelector",
     "components/pagination",
-    "components/notification",
     "components/numberField",
+    "components/notifications",
     "components/accordion"
   ]
 }

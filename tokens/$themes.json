@@ -642,7 +642,8 @@
       "components/pagination": "enabled",
       "components/pictureSelector": "enabled",
       "components/accordion": "enabled",
-      "components/numberField": "enabled"
+      "components/numberField": "enabled",
+      "components/notifications": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6017:171",
     "$figmaModeId": "6017:0",

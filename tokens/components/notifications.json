@@ -1,0 +1,14 @@
+{
+  "notification": {
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{dimensions.sizing.md}"
+      },
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{dimensions.sizing.md}"
+      }
+    }
+  }
+}
