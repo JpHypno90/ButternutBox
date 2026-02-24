@@ -10,8 +10,8 @@
         "content": {
           "gap": {
             "$type": "spacing",
-            "$value": "{spacing.3xs}",
-            "$description": "2px — title to description gap"
+            "$value": "{spacing.xs}",
+            "$description": "8px — title to description gap"
           }
         },
         "section": {
