@@ -8,7 +8,7 @@
         },
         "minWidth": {
           "$type": "sizing",
-          "$value": "{dimension.sizing.320}"
+          "$value": "{dimension.sizing.260}"
         }
       }
     },
