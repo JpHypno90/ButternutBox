@@ -1,0 +1,94 @@
+{
+  "navItem": {
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.default}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{colour.background.container.secondary}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{colour.background.container.secondary}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.sm}"
+      }
+    },
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      },
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.sm}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    }
+  },
+  "sideNavigation": {
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.default}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.border.default}"
+        }
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "$type": "borderRadius",
+        "$value": "{borderRadius.md}"
+      }
+    },
+    "borderWidth": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    },
+    "spacing": {
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      },
+      "horizontalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.lg}"
+      },
+      "verticalPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.lg}"
+      }
+    },
+    "boxShadow": {
+      "default": {
+        "$type": "boxShadow",
+        "$value": "{shadow.sm}"
+      }
+    }
+  }
+}

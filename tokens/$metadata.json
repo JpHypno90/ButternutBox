@@ -38,6 +38,7 @@
     "components/numberField",
     "components/notifications",
     "components/toast",
+    "components/sideNavigation",
     "components/accordion"
   ]
 }
