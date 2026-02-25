@@ -644,7 +644,8 @@
       "components/accordion": "enabled",
       "components/numberField": "enabled",
       "components/notifications": "enabled",
-      "components/toast": "enabled"
+      "components/toast": "enabled",
+      "components/sideNavigation": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6017:171",
     "$figmaModeId": "6017:0",
