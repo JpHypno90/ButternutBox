@@ -1,49 +1,55 @@
 {
-  "navItem": {
-    "colour": {
-      "background": {
-        "default": {
-          "$type": "color",
-          "$value": "{colour.background.container.default}"
-        },
-        "hover": {
-          "$type": "color",
-          "$value": "{colour.background.container.secondary}"
-        },
-        "active": {
-          "$type": "color",
-          "$value": "{colour.background.container.secondary}"
-        }
-      },
-      "text": {
-        "default": {
-          "$type": "color",
-          "$value": "{colour.text.primary}"
-        }
-      }
-    },
-    "borderRadius": {
-      "default": {
-        "$type": "borderRadius",
-        "$value": "{borderRadius.sm}"
-      }
-    },
-    "spacing": {
-      "gap": {
-        "$type": "spacing",
-        "$value": "{spacing.xs}"
-      },
-      "horizontalPadding": {
-        "$type": "spacing",
-        "$value": "{spacing.sm}"
-      },
-      "verticalPadding": {
-        "$type": "spacing",
-        "$value": "{spacing.xs}"
-      }
-    }
-  },
   "sideNavigation": {
+    "navItem": {
+      "colour": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.container.default}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.background.container.secondary}"
+          },
+          "active": {
+            "$type": "color",
+            "$value": "{colour.background.container.secondary}"
+          }
+        },
+        "text": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      },
+      "borderRadius": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.sm}"
+        }
+      },
+      "spacing": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "typography": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.heading.desktop.2xs}"
+        }
+      }
+    },
     "colour": {
       "background": {
         "default": {
