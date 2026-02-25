@@ -39,6 +39,7 @@
     "components/notifications",
     "components/toast",
     "components/sideNavigation",
+    "components/navigationFooter",
     "components/accordion"
   ]
 }
