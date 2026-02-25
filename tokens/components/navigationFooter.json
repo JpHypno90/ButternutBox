@@ -1,0 +1,78 @@
+{
+  "navigationFooter": {
+    "navItem": {
+      "typography": {
+        "active": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.md}"
+        },
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.medium.md}"
+        }
+      },
+      "colour": {
+        "text": {
+          "active": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.placeholder}"
+          }
+        }
+      },
+      "opacity": {
+        "default": {
+          "$type": "opacity",
+          "$value": "{opacity.50}"
+        }
+      },
+      "spacing": {
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.surface.default}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.border.default}"
+        }
+      }
+    },
+    "borderWidth": {
+      "default": {
+        "$type": "borderWidth",
+        "$value": "{borderWidth.sm}"
+      }
+    },
+    "spacing": {
+      "topPadding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xs}"
+      },
+      "mobile": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      },
+      "tablet": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.3xl}"
+        }
+      }
+    }
+  }
+}
