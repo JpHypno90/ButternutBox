@@ -252,7 +252,7 @@
       "red": {
         "1": {
           "$type": "color",
-          "$value": "#FFF7F6",
+          "$value": "#ff1e00",
           "$description": "Background"
         },
         "2": {
