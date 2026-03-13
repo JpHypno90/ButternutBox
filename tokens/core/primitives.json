@@ -4,7 +4,7 @@
       "yellow": {
         "1": {
           "$type": "color",
-          "$value": "#fffdf7",
+          "$value": "#f00",
           "$description": "Background"
         },
         "2": {
@@ -66,7 +66,7 @@
       "brown": {
         "1": {
           "$type": "color",
-          "$value": "#EEEAE7",
+          "$value": "#000",
           "$description": "Background"
         },
         "2": {
