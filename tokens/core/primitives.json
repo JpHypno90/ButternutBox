@@ -4,7 +4,7 @@
       "yellow": {
         "1": {
           "$type": "color",
-          "$value": "#fffdf7",
+          "$value": "#f00",
           "$description": "Background"
         },
         "2": {
