@@ -44,6 +44,10 @@
     "components/navigationHeader",
     "components/accordion",
     "components/insightCard",
-    "components/tooltip"
+    "components/tooltip",
+    "components/Checkbox",
+    "components/Illustrations",
+    "components/Inputs",
+    "components/Radio"
   ]
 }
