@@ -10,12 +10,11 @@
       "background": {
         "default": {
           "$type": "color",
-          "$value": "{colour.background.surface.default}"
+          "$value": "{colour.background.container.default}"
         },
         "active": {
           "$type": "color",
-          "$value": "{colour.brand.pink.1}",
-          "$description": "No background semantic exists for pink.1"
+          "$value": "{colour.brand.pink.1}"
         }
       },
       "border": {

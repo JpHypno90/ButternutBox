@@ -1,18 +1,5 @@
 {
   "buttons": {
-    "text": {
-      "primary": {
-        "default": {
-          "$type": "typography",
-          "$value": {
-            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
-            "fontWeight": "{fontWeight.700}",
-            "fontSize": "{fontSize.18}",
-            "lineHeight": "{lineHeight.20}"
-          }
-        }
-      }
-    },
     "size": {
       "lg": {
         "height": {
@@ -145,7 +132,7 @@
           "primary": {
             "default": {
               "$type": "color",
-              "$value": "{colour.text.alt}"
+              "$value": "{colour.text.action.inverse}"
             }
           },
           "secondary": {
@@ -159,7 +146,7 @@
           "primary": {
             "default": {
               "$type": "color",
-              "$value": "{colour.icon.alt}"
+              "$value": "{colour.icon.action.inverse}"
             }
           },
           "secondary": {
@@ -196,7 +183,7 @@
           },
           "selected": {
             "$type": "color",
-            "$value": "{colour.text.action.inverse}"
+            "$value": "{colour.icon.action.inverse}"
           }
         },
         "icon": {
@@ -206,7 +193,7 @@
           },
           "selected": {
             "$type": "color",
-            "$value": "{colour.icon.action.inverse}"
+            "$value": "{colour.icon.alt}"
           }
         }
       },
@@ -312,7 +299,7 @@
             "primary": {
               "default": {
                 "$type": "color",
-                "$value": "{colour.icon.alt}"
+                "$value": "{colour.icon.action.inverse}"
               }
             },
             "secondary": {
@@ -395,6 +382,20 @@
             "$value": "{colour.icon.action.inverse}"
           }
         }
+      }
+    },
+    "text": {
+      "large": {
+        "$type": "typography",
+        "$value": "{typography.buttons.text.large}"
+      },
+      "medium": {
+        "$type": "typography",
+        "$value": "{typography.buttons.text.medium}"
+      },
+      "small": {
+        "$type": "typography",
+        "$value": "{typography.buttons.text.small}"
       }
     }
   }

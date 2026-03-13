@@ -6,11 +6,11 @@
     "semantics/dimensions",
     "components/buttons",
     "components/icons",
-    "components/Illustrations",
-    "components/Radio",
-    "components/Checkbox",
+    "components/illustrations",
+    "components/radio",
+    "components/checkbox",
     "components/switch",
-    "components/Inputs",
+    "components/inputs",
     "components/validationList",
     "components/dropdownList",
     "components/slider",
@@ -37,9 +37,13 @@
     "components/pagination",
     "components/numberField",
     "components/notifications",
+    "components/systemNotifications",
     "components/toast",
     "components/sideNavigation",
     "components/navigationFooter",
-    "components/accordion"
+    "components/navigationHeader",
+    "components/accordion",
+    "components/insightCard",
+    "components/tooltip"
   ]
 }

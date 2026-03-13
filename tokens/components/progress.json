@@ -27,7 +27,7 @@
         "background": {
           "default": {
             "$type": "color",
-            "$value": "{colour.border.divider}"
+            "$value": "{colour.brand.brown.1}"
           }
         }
       }
@@ -55,7 +55,7 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           }
         }
       }

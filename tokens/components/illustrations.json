@@ -1,0 +1,14 @@
+{
+  "sizing": {
+    "illustrations": {
+      "sm": {
+        "$type": "sizing",
+        "$value": "{sizing.4xl}"
+      },
+      "lg": {
+        "$type": "sizing",
+        "$value": "{dimension.sizing.52}"
+      }
+    }
+  }
+}

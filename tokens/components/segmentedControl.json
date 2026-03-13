@@ -16,7 +16,7 @@
       "background": {
         "selected": {
           "$type": "color",
-          "$value": "{colour.system.neutral.1}"
+          "$value": "{colour.background.container.default}"
         },
         "hover": {
           "$type": "color",
@@ -30,7 +30,7 @@
         },
         "unselected": {
           "$type": "color",
-          "$value": "{colour.system.neutral.1}"
+          "$value": "{colour.text.alt}"
         }
       }
     },
@@ -54,21 +54,11 @@
       "label": {
         "default": {
           "$type": "typography",
-          "$value": {
-            "fontFamily": "{fontFamily.brand.butternutbox.body}",
-            "fontWeight": "{fontWeight.700}",
-            "fontSize": "{fontSize.16}",
-            "lineHeight": "{lineHeight.18}"
-          }
+          "$value": "{typography.body.bold.md}"
         },
         "inactive": {
           "$type": "typography",
-          "$value": {
-            "fontFamily": "{fontFamily.brand.butternutbox.body}",
-            "fontWeight": "{fontWeight.600}",
-            "fontSize": "{fontSize.16}",
-            "lineHeight": "{lineHeight.18}"
-          }
+          "$value": "{typography.body.medium.md}"
         }
       }
     },
@@ -83,9 +73,11 @@
   },
   "segmentedControl": {
     "colour": {
-      "default": {
-        "$type": "color",
-        "$value": "{colour.brand.pink.8}"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.brand.pink.8}"
+        }
       }
     },
     "borderRadius": {

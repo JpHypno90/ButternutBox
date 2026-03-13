@@ -16,12 +16,7 @@
     },
     "typography": {
       "$type": "typography",
-      "$value": {
-        "fontFamily": "{fontFamily.brand.butternutbox.headings}",
-        "fontWeight": "{fontWeight.700}",
-        "fontSize": "{fontSize.20}",
-        "lineHeight": "{lineHeight.24}"
-      }
+      "$value": "{typography.heading.desktop.2xs}"
     }
   },
   "week": {
@@ -35,12 +30,7 @@
     },
     "typography": {
       "$type": "typography",
-      "$value": {
-        "fontFamily": "{fontFamily.brand.butternutbox.body}",
-        "fontWeight": "{fontWeight.500}",
-        "fontSize": "{fontSize.18}",
-        "lineHeight": "{lineHeight.28}"
-      }
+      "$value": "{typography.body.medium.lg}"
     }
   },
   "dateItem": {
@@ -77,29 +67,29 @@
         "nextBox": {
           "default": {
             "$type": "color",
-            "$value": "{colour.text.alt}"
+            "$value": "{colour.background.container.default}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{colour.text.alt}"
+            "$value": "{colour.background.container.default}"
           },
           "selected": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           }
         },
         "futureBox": {
           "default": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           },
           "disabled": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           },
           "selected": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           }
         }
       },
@@ -124,11 +114,11 @@
           "nextBox": {
             "default": {
               "$type": "color",
-              "$value": "{colour.brand.brown-alpha.12}"
+              "$value": "{colour.brand.brown.9}"
             },
             "disabled": {
               "$type": "color",
-              "$value": "{colour.brand.brown-alpha.12}"
+              "$value": "{colour.brand.brown.9}"
             },
             "selected": {
               "$type": "color",
@@ -172,21 +162,11 @@
     "typography": {
       "default": {
         "$type": "typography",
-        "$value": {
-          "fontFamily": "{fontFamily.brand.butternutbox.body}",
-          "fontWeight": "{fontWeight.500}",
-          "fontSize": "{fontSize.18}",
-          "lineHeight": "{lineHeight.28}"
-        }
+        "$value": "{typography.body.medium.lg}"
       },
       "currentDate": {
         "$type": "typography",
-        "$value": {
-          "fontFamily": "{fontFamily.brand.butternutbox.body}",
-          "fontWeight": "{fontWeight.700}",
-          "fontSize": "{fontSize.18}",
-          "lineHeight": "{lineHeight.28}"
-        }
+        "$value": "{typography.body.bold.lg}"
       }
     }
   },

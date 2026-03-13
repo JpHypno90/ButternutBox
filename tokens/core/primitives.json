@@ -875,6 +875,10 @@
         "$type": "dimension",
         "$value": "80px"
       },
+      "100": {
+        "$type": "dimension",
+        "$value": "100px"
+      },
       "140": {
         "$type": "dimension",
         "$value": "140px"
@@ -895,6 +899,14 @@
         "$type": "dimension",
         "$value": "320px"
       },
+      "350": {
+        "$type": "dimension",
+        "$value": "350px"
+      },
+      "390": {
+        "$type": "dimension",
+        "$value": "390px"
+      },
       "400": {
         "$type": "dimension",
         "$value": "400px"
@@ -902,6 +914,22 @@
       "500": {
         "$type": "dimension",
         "$value": "500px"
+      },
+      "600": {
+        "$type": "dimension",
+        "$value": "600px"
+      },
+      "900": {
+        "$type": "dimension",
+        "$value": "900px"
+      },
+      "1200": {
+        "$type": "dimension",
+        "$value": "1200px"
+      },
+      "1536": {
+        "$type": "dimension",
+        "$value": "1536px"
       }
     },
     "radius": {
@@ -976,69 +1004,69 @@
   "lineHeight": {
     "16": {
       "$type": "lineHeights",
-      "$value": "16"
+      "$value": "16px"
     },
     "18": {
       "$type": "lineHeights",
-      "$value": "18"
+      "$value": "18px"
     },
     "20": {
       "$type": "lineHeights",
-      "$value": "20"
+      "$value": "20px"
     },
     "24": {
       "$type": "lineHeights",
-      "$value": "24"
+      "$value": "24px"
     },
     "28": {
       "$type": "lineHeights",
-      "$value": "28"
+      "$value": "28px"
     },
     "32": {
       "$type": "lineHeights",
-      "$value": "32"
+      "$value": "32px"
     },
     "36": {
       "$type": "lineHeights",
-      "$value": "36"
+      "$value": "36px"
     },
     "40": {
       "$type": "lineHeights",
-      "$value": "40"
+      "$value": "40px"
     },
     "44": {
       "$type": "lineHeights",
-      "$value": "44"
+      "$value": "44px"
     },
     "48": {
       "$type": "lineHeights",
-      "$value": "48"
+      "$value": "48px"
     },
     "56": {
       "$type": "lineHeights",
-      "$value": "56"
+      "$value": "56px"
     },
     "64": {
       "$type": "lineHeights",
-      "$value": "64"
+      "$value": "64px"
     },
     "68": {
       "$type": "lineHeights",
-      "$value": "68"
+      "$value": "68px"
     },
     "72": {
       "$type": "lineHeights",
-      "$value": "72"
+      "$value": "72px"
     },
     "80": {
       "$type": "lineHeights",
-      "$value": "80"
+      "$value": "80px"
     }
   },
   "fontSize": {
     "12": {
       "$type": "fontSizes",
-      "$value": "12"
+      "$value": "12px"
     },
     "14": {
       "$type": "fontSizes",
@@ -1102,7 +1130,7 @@
     },
     "72": {
       "$type": "fontSizes",
-      "$value": "72"
+      "$value": "72px"
     }
   },
   "textDecoration": {
@@ -1220,20 +1248,24 @@
     "12": {
       "$type": "letterSpacing",
       "$value": "0.12%"
+    },
+    "02": {
+      "$type": "letterSpacing",
+      "$value": "0.2%"
     }
   },
   "paragrahSpacing": {
     "20": {
       "$type": "paragraphSpacing",
-      "$value": "20"
+      "$value": "20px"
     },
     "24": {
       "$type": "paragraphSpacing",
-      "$value": "24"
+      "$value": "24px"
     },
     "28": {
       "$type": "paragraphSpacing",
-      "$value": "28"
+      "$value": "28px"
     }
   }
 }

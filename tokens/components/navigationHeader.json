@@ -1,0 +1,56 @@
+{
+  "navigationHeader": {
+    "colour": {
+      "surface": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.surface.alt}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "typography": {
+      "primary": {
+        "$type": "typography",
+        "$value": "{typography.heading.mobile.md}"
+      },
+      "secondary": {
+        "$type": "typography",
+        "$value": "{typography.body.bold.lg}"
+      }
+    },
+    "spacing": {
+      "titleGroup": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      },
+      "actionGroup": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "navContainer": {
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        }
+      }
+    }
+  }
+}

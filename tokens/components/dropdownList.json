@@ -15,7 +15,7 @@
         "background": {
           "default": {
             "$type": "color",
-            "$value": "{colour.background.surface.default}"
+            "$value": "{colour.background.container.default}"
           },
           "hover": {
             "$type": "color",
@@ -23,14 +23,14 @@
           },
           "disabled": {
             "$type": "color",
-            "$value": "{colour.background.surface.disabled}"
+            "$value": "{colour.background.container.disabled}"
           }
         },
         "text": {
           "placeholder": {
             "default": {
               "$type": "color",
-              "$value": "{colour.icon.primary}"
+              "$value": "{colour.text.primary}"
             },
             "disabled": {
               "$type": "color",

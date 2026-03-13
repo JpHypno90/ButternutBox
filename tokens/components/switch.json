@@ -23,7 +23,7 @@
         "border": {
           "default": {
             "$type": "color",
-            "$value": "{colour.background.action.secondary.selected}"
+            "$value": "{colour.border.action.inverse}"
           }
         },
         "background": {
@@ -55,7 +55,7 @@
           },
           "selected": {
             "$type": "color",
-            "$value": "{colour.text.alt}"
+            "$value": "{colour.background.container.default}"
           }
         }
       }

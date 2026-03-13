@@ -34,24 +34,13 @@
       "link": {
         "default": {
           "$type": "typography",
-          "$value": {
-            "fontFamily": "{fontFamily.brand.butternutbox.body}",
-            "fontWeight": "{fontWeight.600}",
-            "fontSize": "{fontSize.16}",
-            "lineHeight": "{sizing.xl}",
-            "textDecoration": "{textDecoration.underline}"
-          }
+          "$value": "{typography.body.semiBold.md}"
         }
       },
       "currentPage": {
         "default": {
           "$type": "typography",
-          "$value": {
-            "fontFamily": "{fontFamily.brand.butternutbox.body}",
-            "fontWeight": "{fontWeight.600}",
-            "fontSize": "{fontSize.16}",
-            "lineHeight": "{sizing.xl}"
-          }
+          "$value": "{typography.body.semiBold.md}"
         }
       }
     }

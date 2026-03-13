@@ -1,0 +1,98 @@
+{
+  "notification": {
+    "spacing": {
+      "small": {
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        }
+      },
+      "large": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.8xl}"
+        },
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.2xl}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.xs}"
+          }
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.background.container.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.background.container.success}"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "{colour.background.container.warning}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.background.container.info}"
+        }
+      },
+      "icon": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.icon.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.icon.success}"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "{colour.icon.warning}"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "{colour.icon.info}"
+        }
+      },
+      "text": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    }
+  },
+  "notifications": {
+    "typography": {
+      "default": {
+        "$type": "typography",
+        "$value": "{typography.body.medium.md}"
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@
       "background": {
         "default": {
           "$type": "color",
-          "$value": "{colour.background.surface.default}"
+          "$value": "{colour.background.container.default}"
         }
       },
       "slot": {

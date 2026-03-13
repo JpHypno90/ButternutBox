@@ -1,0 +1,204 @@
+{
+  "inputs": {
+    "size": {
+      "field": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.44}"
+        },
+        "minWidth": {
+          "$type": "sizing",
+          "$value": "{dimension.sizing.260}"
+        }
+      }
+    },
+    "spacing": {
+      "field": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "label": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.2xs}"
+        }
+      },
+      "description": {
+        "leftPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.xs}"
+        }
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{spacing.xs}"
+      }
+    },
+    "colour": {
+      "field": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.background.container.default}"
+          },
+          "inactive": {
+            "$type": "color",
+            "$value": "{colour.system.neutral.2}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{colour.border.input.default}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colour.border.input.hover}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{colour.border.input.selected}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{colour.border.error}"
+          },
+          "success": {
+            "$type": "color",
+            "$value": "{colour.border.success}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colour.border.inactive}"
+          }
+        },
+        "text": {
+          "placeholder": {
+            "$type": "color",
+            "$value": "{colour.text.placeholder}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{colour.text.primary}"
+          }
+        }
+      },
+      "label": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "optional": {
+          "$type": "color",
+          "$value": "{colour.text.tertiary}"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "{colour.text.error}"
+        }
+      },
+      "description": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "{colour.text.error}"
+        }
+      },
+      "icon": {
+        "error": {
+          "$type": "color",
+          "$value": "{colour.icon.error}"
+        },
+        "success": {
+          "$type": "color",
+          "$value": "{colour.icon.success}"
+        }
+      },
+      "characterCount": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        }
+      }
+    },
+    "borderRadius": {
+      "field": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.sm}"
+        }
+      }
+    },
+    "borderWidth": {
+      "field": {
+        "default": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.sm}"
+        },
+        "hover": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.sm}"
+        },
+        "selected": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.md}"
+        },
+        "error": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.md}"
+        },
+        "success": {
+          "$type": "borderWidth",
+          "$value": "{borderWidth.md}"
+        }
+      }
+    },
+    "field": {
+      "placeholder": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.medium.md}"
+        }
+      }
+    },
+    "description": {
+      "text": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.medium.sm}"
+        }
+      }
+    },
+    "text": {
+      "label": {
+        "$type": "typography",
+        "$value": "{typography.body.bold.md}"
+      },
+      "optional": {
+        "$type": "typography",
+        "$value": "{typography.body.semiBold.md}"
+      },
+      "characterCount": {
+        "$type": "typography",
+        "$value": "{typography.body.medium.sm}"
+      }
+    }
+  }
+}

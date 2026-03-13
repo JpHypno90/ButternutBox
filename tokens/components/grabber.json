@@ -16,7 +16,7 @@
       "background": {
         "default": {
           "$type": "color",
-          "$value": "{colour.border.default}"
+          "$value": "{colour.system.neutral.4}"
         }
       }
     }

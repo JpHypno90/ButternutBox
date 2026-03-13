@@ -9,7 +9,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.12}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "should be used sparingly, only for labels or image descriptors"
@@ -21,7 +21,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "Ideal for terms and conditions, as well as help labels."
@@ -33,7 +33,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.24}"
           },
           "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
@@ -45,7 +45,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.28}"
           },
           "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
@@ -59,7 +59,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.12}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "should be used sparingly, only for labels or image descriptors"
@@ -71,7 +71,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "Ideal for terms and conditions, as well as help labels."
@@ -83,7 +83,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.24}"
           },
           "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
@@ -95,7 +95,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.28}"
           },
           "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
@@ -109,7 +109,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.12}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "should be used sparingly, only for labels or image descriptors"
@@ -121,7 +121,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.20}"
           },
           "$description": "Ideal for terms and conditions, as well as help labels."
@@ -133,7 +133,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.24}"
           },
           "$description": "Our default size for most content. It's used for ingredient lists, blog content, tags, and card copy. When creating a design, this should be the leading text style on the page."
@@ -145,7 +145,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "paragraphSpacing": "{paragrahSpacing.28}"
           },
           "$description": "Can be used to highlight short paragraphs of specific information, but should be avoided for long-form content."
@@ -161,7 +161,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -172,7 +172,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -183,7 +183,7 @@
             "fontWeight": "{fontWeight.600}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         }
@@ -196,7 +196,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -207,7 +207,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -218,7 +218,7 @@
             "fontWeight": "{fontWeight.700}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         }
@@ -231,7 +231,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.14}",
             "lineHeight": "{lineHeight.20}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -242,7 +242,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.16}",
             "lineHeight": "{lineHeight.24}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         },
@@ -253,7 +253,7 @@
             "fontWeight": "{fontWeight.500}",
             "fontSize": "{fontSize.18}",
             "lineHeight": "{lineHeight.28}",
-            "letterSpacing": "{letterSpacing.12}",
+            "letterSpacing": "{letterSpacing.02}",
             "textDecoration": "{textDecoration.underline}"
           }
         }
@@ -268,7 +268,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.20}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -279,7 +279,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.28}",
             "fontSize": "{fontSize.24}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -290,7 +290,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.28}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           }
         },
         "md": {
@@ -300,7 +300,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.36}",
             "fontSize": "{fontSize.32}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           }
         },
         "lg": {
@@ -310,7 +310,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.44}",
             "fontSize": "{fontSize.40}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           }
         },
         "xl": {
@@ -320,7 +320,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.56}",
             "fontSize": "{fontSize.48}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           }
         }
       },
@@ -333,7 +333,7 @@
               "fontWeight": "{fontWeight.700}",
               "lineHeight": "{lineHeight.68}",
               "fontSize": "{fontSize.60}",
-              "letterSpacing": "{letterSpacing.12}"
+              "letterSpacing": "{letterSpacing.02}"
             },
             "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
           },
@@ -343,7 +343,7 @@
               "fontFamily": "{fontFamily.brand.butternutbox.headings}",
               "fontWeight": "{fontWeight.700}",
               "fontSize": "{fontSize.72}",
-              "letterSpacing": "{letterSpacing.12}",
+              "letterSpacing": "{letterSpacing.02}",
               "lineHeight": "{lineHeight.80}"
             },
             "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
@@ -357,7 +357,7 @@
               "fontWeight": "{fontWeight.700}",
               "lineHeight": "{lineHeight.56}",
               "fontSize": "{fontSize.48}",
-              "letterSpacing": "{letterSpacing.12}"
+              "letterSpacing": "{letterSpacing.02}"
             },
             "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
           },
@@ -367,7 +367,7 @@
               "fontFamily": "{fontFamily.brand.butternutbox.headings}",
               "fontWeight": "{fontWeight.700}",
               "fontSize": "{fontSize.60}",
-              "letterSpacing": "{letterSpacing.12}",
+              "letterSpacing": "{letterSpacing.02}",
               "lineHeight": "{lineHeight.68}"
             },
             "$description": "Display sizes should be used sparingly for short, impactful copy that aims to not exceed a single line in English. Brevity is key! Please be mindful of translations into Polish and German, where copy tends to become longer. We offer two Display sizes, Large and Medium. Display Large is to be used sparingly for short brand focused content whereas Display medium is our primary typography for marketing hero's."
@@ -382,7 +382,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.20}",
             "fontSize": "{fontSize.16}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -392,7 +392,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.20}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -402,7 +402,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.28}",
             "fontSize": "{fontSize.24}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -412,7 +412,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.28}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -422,7 +422,7 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.36}",
             "fontSize": "{fontSize.32}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
         },
@@ -432,9 +432,40 @@
             "fontWeight": "{fontWeight.700}",
             "lineHeight": "{lineHeight.44}",
             "fontSize": "{fontSize.40}",
-            "letterSpacing": "{letterSpacing.12}"
+            "letterSpacing": "{letterSpacing.02}"
           },
           "$description": "Headings are used frequently across all digital executions. They can serve as section headings, recipe card titles, sub-headlines, and more."
+        }
+      }
+    },
+    "buttons": {
+      "text": {
+        "large": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "letterSpacing": "{letterSpacing.02}"
+          }
+        },
+        "medium": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.18}",
+            "letterSpacing": "{letterSpacing.02}"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{fontFamily.brand.butternutbox.headings}",
+            "fontWeight": "{fontWeight.700}",
+            "fontSize": "{fontSize.16}",
+            "letterSpacing": "{letterSpacing.02}"
+          }
         }
       }
     }

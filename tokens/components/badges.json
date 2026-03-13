@@ -143,6 +143,26 @@
           "$value": "{sizing.md}"
         }
       }
+    },
+    "typography": {
+      "large": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.md}"
+        }
+      },
+      "medium": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.sm}"
+        }
+      },
+      "small": {
+        "default": {
+          "$type": "typography",
+          "$value": "{typography.body.bold.xs}"
+        }
+      }
     }
   },
   "hint": {

@@ -7,8 +7,7 @@
       },
       "dark": {
         "$type": "color",
-        "$value": "{colour.brand.yellow.7}",
-        "$description": "No semantic exists for yellow.7 - primitive used directly"
+        "$value": "{colour.brand.yellow.7}"
       }
     },
     "size": {

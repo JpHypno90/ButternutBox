@@ -154,5 +154,29 @@
       "$type": "borderRadius",
       "$value": "{dimension.radius.100}"
     }
+  },
+  "breakpoints": {
+    "spacing": {
+      "xs": {
+        "$type": "spacing",
+        "$value": "{dimension.sizing.390}"
+      },
+      "sm": {
+        "$type": "spacing",
+        "$value": "{dimension.sizing.600}"
+      },
+      "md": {
+        "$type": "spacing",
+        "$value": "{dimension.sizing.900}"
+      },
+      "lg": {
+        "$type": "spacing",
+        "$value": "{dimension.sizing.1200}"
+      },
+      "xl": {
+        "$type": "spacing",
+        "$value": "{dimension.sizing.1536}"
+      }
+    }
   }
 }

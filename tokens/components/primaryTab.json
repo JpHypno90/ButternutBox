@@ -39,17 +39,17 @@
           },
           "disabled": {
             "$type": "color",
-            "$value": "{colour.background.surface.disabled}"
+            "$value": "{colour.system.neutral.3}"
           },
           "hover": {
             "$type": "color",
-            "$value": "{colour.border.input.default}"
+            "$value": "{colour.brand.brown.7}"
           }
         },
         "text": {
           "default": {
             "$type": "color",
-            "$value": "{colour.border.action.default}"
+            "$value": "{colour.text.action.default}"
           }
         }
       },
@@ -60,7 +60,7 @@
         }
       },
       "typography": {
-        "default": {
+        "selected": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{fontFamily.brand.butternutbox.body}",
@@ -69,7 +69,7 @@
             "lineHeight": "{lineHeight.24}"
           }
         },
-        "disabled": {
+        "default": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{fontFamily.brand.butternutbox.body}",

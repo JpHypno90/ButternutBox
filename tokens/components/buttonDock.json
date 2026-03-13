@@ -41,7 +41,7 @@
     "colour": {
       "background": {
         "$type": "color",
-        "$value": "{colour.background.surface.default}"
+        "$value": "{colour.background.container.default}"
       },
       "border": {
         "$type": "color",

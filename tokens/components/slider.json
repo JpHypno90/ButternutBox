@@ -21,13 +21,13 @@
         "background": {
           "default": {
             "$type": "color",
-            "$value": "{colour.background.surface.disabled}"
+            "$value": "{colour.background.container.disabled}"
           }
         },
         "border": {
           "default": {
             "$type": "color",
-            "$value": "{colour.border.input.default}"
+            "$value": "{colour.brand.brown.7}"
           }
         }
       },
@@ -35,7 +35,7 @@
         "background": {
           "default": {
             "$type": "color",
-            "$value": "{colour.text.primary}"
+            "$value": "{colour.brand.brown.9}"
           }
         }
       }

@@ -20,6 +20,10 @@
         }
       },
       "container": {
+        "disabled": {
+          "$type": "color",
+          "$value": "{colour.system.neutral.3}"
+        },
         "default": {
           "$type": "color",
           "$value": "{colour.system.neutral.1}"
@@ -168,7 +172,7 @@
       "action": {
         "default": {
           "$type": "color",
-          "$value": "{colour.brand.pink.8}"
+          "$value": "{colour.brand.pink.9}"
         },
         "hover": {
           "$type": "color",
@@ -176,7 +180,7 @@
         },
         "inverse": {
           "$type": "color",
-          "$value": "{colour.brand.pink.1}"
+          "$value": "{colour.system.neutral.1}"
         }
       }
     },
@@ -225,6 +229,10 @@
         "selected": {
           "$type": "color",
           "$value": "{colour.brand.pink.8}"
+        },
+        "inverse": {
+          "$type": "color",
+          "$value": "{colour.brand.pink.4}"
         }
       },
       "input": {
@@ -278,7 +286,7 @@
       "action": {
         "default": {
           "$type": "color",
-          "$value": "{colour.brand.pink.8}"
+          "$value": "{colour.brand.pink.9}"
         },
         "inverse": {
           "$type": "color",

@@ -1,0 +1,78 @@
+{
+  "insightCard": {
+    "size": {
+      "minWidth": {
+        "$type": "sizing",
+        "$value": "{dimension.sizing.350}"
+      }
+    },
+    "spacing": {
+      "standalone": {
+        "horizontalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "verticalPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        },
+        "content": {
+          "gap": {
+            "$type": "spacing",
+            "$value": "{spacing.2xs}"
+          }
+        }
+      },
+      "supporting": {
+        "topPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.lg}"
+        },
+        "bottomPadding": {
+          "$type": "spacing",
+          "$value": "{spacing.md}"
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{spacing.sm}"
+        }
+      }
+    },
+    "colour": {
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{colour.background.container.alt}"
+        }
+      },
+      "text": {
+        "title": {
+          "$type": "color",
+          "$value": "{colour.text.primary}"
+        },
+        "subText": {
+          "$type": "color",
+          "$value": "{colour.text.secondary}"
+        }
+      }
+    },
+    "borderRadius": {
+      "standalone": {
+        "default": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.md}"
+        }
+      },
+      "supporting": {
+        "bottom": {
+          "$type": "borderRadius",
+          "$value": "{borderRadius.md}"
+        }
+      }
+    }
+  }
+}

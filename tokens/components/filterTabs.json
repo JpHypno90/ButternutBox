@@ -40,7 +40,7 @@
       "text": {
         "default": {
           "$type": "color",
-          "$value": "{colour.border.action.default}"
+          "$value": "{colour.text.action.default}"
         },
         "inactive": {
           "$type": "color",
@@ -48,7 +48,7 @@
         },
         "selected": {
           "$type": "color",
-          "$value": "{colour.text.alt}"
+          "$value": "{colour.text.action.inverse}"
         },
         "hover": {
           "$type": "color",
@@ -58,11 +58,11 @@
       "icon": {
         "selected": {
           "$type": "color",
-          "$value": "{colour.icon.alt}"
+          "$value": "{colour.icon.action.inverse}"
         },
         "unselected": {
           "$type": "color",
-          "$value": "{colour.brand.pink.8}"
+          "$value": "{colour.icon.action.default}"
         },
         "hover": {
           "$type": "color",

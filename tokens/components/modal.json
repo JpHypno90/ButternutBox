@@ -4,21 +4,18 @@
       "spacing": {
         "padding": {
           "$type": "spacing",
-          "$value": "{spacing.xl}",
-          "$description": "24px — outer padding all variants"
+          "$value": "{spacing.xl}"
         },
         "content": {
           "gap": {
             "$type": "spacing",
-            "$value": "{spacing.xs}",
-            "$description": "8px — title to description gap"
+            "$value": "{spacing.xs}"
           }
         },
         "section": {
           "gap": {
             "$type": "spacing",
-            "$value": "{spacing.xl}",
-            "$description": "24px — container to inline-alert gap (Full bleed)"
+            "$value": "{spacing.xl}"
           }
         }
       },
@@ -26,20 +23,17 @@
         "text": {
           "title": {
             "$type": "color",
-            "$value": "{colour.text.primary}",
-            "$description": "#522A10"
+            "$value": "{colour.text.primary}"
           },
           "description": {
             "$type": "color",
-            "$value": "{colour.text.secondary}",
-            "$description": "#633F28"
+            "$value": "{colour.text.secondary}"
           }
         },
         "background": {
           "fullBleed": {
             "$type": "color",
-            "$value": "{colour.background.container.secondary}",
-            "$description": "#FFF6D8 — Full bleed variant background"
+            "$value": "{colour.background.container.secondary}"
           }
         }
       },
@@ -47,21 +41,18 @@
         "image": {
           "default": {
             "$type": "borderRadius",
-            "$value": "{borderRadius.sm}",
-            "$description": "8px — image frame corners"
+            "$value": "{borderRadius.sm}"
           }
         }
       },
       "typography": {
         "title": {
           "$type": "typography",
-          "$value": "{typography.heading.desktop.md}",
-          "$description": "Heading font 700, fontSize 24, lineHeight 28"
+          "$value": "{typography.heading.desktop.md}"
         },
         "description": {
           "$type": "typography",
-          "$value": "{typography.body.medium.md}",
-          "$description": "Body font 500, fontSize 16, lineHeight 24"
+          "$value": "{typography.body.medium.md}"
         }
       }
     },
