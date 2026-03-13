@@ -190,7 +190,7 @@
       "blue": {
         "1": {
           "$type": "color",
-          "$value": "#F6FAFF",
+          "$value": "#0073ff",
           "$description": "Background"
         },
         "2": {
